@@ -7,8 +7,8 @@ Minimal Webpack 4 boilerplate with Babel, Sass, ESLint, Hot Module Replacement, 
 ## Installation
 
 ```
-git clone git@github.com:taniarascia/webpack-boilerplate
-npm i
+git clone git@github.com:mdlorey/webpack-boilerplate.git
+yarn install
 ```
 
 ## Usage
@@ -16,13 +16,13 @@ npm i
 ### Development server
 
 ```bash
-npm start
+yarn start
 ```
 
 ### Production build
 
 ```bash
-npm run build
+yarn run build
 ```
 
 ## Features
